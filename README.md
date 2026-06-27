@@ -48,3 +48,26 @@ One day I'm training an ESP32 mesh network to detect landslides, the next I'm op
 * Portfolio *(coming soon)*
 
 I always enjoy talking about technology, security, startups, and interesting project ideas.
+
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,express,react,mysql,git,github,linux,vscode,arduino" />
+</p>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+
+
+## 🚀 Featured Projects
+
+- 🌧 RainRegain — Rooftop Rainwater Harvesting Platform
+- ⛰ FISSURE — Self-Healing Landslide Prediction System
+- 🛡 SecureScan AI — AI-Powered Security Scanner
