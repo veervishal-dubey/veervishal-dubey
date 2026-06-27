@@ -11,7 +11,7 @@ I believe good engineering is often invisible—it quietly saves time, reduces c
 ---
 
 💻 **I'm currently working on**
-Building **SecureScan AI**, an AI-assisted code security analyzer, while exploring Cloud Security, DevSecOps, and Offensive Security.
+Building **SovaScan AI**, an AI-assisted code security analyzer, while exploring Cloud Security, DevSecOps, and Offensive Security.
 
 ---
 
@@ -38,7 +38,7 @@ Node.js • Express • MySQL • ESP32 • Raspberry Pi • TinyML • REST API
 
 🏆 **Outside of programming**
 
-I'm a competitive MMA athlete, where I've learned that discipline, consistency, and continuous improvement matter just as much as talent—principles I try to carry into every project I build.
+I'm a competitive Brazilian Jiu Jitsu and Taekwondo athlete, where I've learned that discipline, consistency, and continuous improvement matter just as much as talent—principles I try to carry into every project I build.
 
 ---
 
@@ -48,6 +48,8 @@ I've learned that the quickest way to spend an entire weekend is to convince mys
 
 ---
 
+
+
 📫 **Reach me**
 
 * LinkedIn
@@ -55,3 +57,26 @@ I've learned that the quickest way to spend an entire weekend is to convince mys
 * Portfolio *(coming soon)*
 
 I'm always happy to connect with people who enjoy discussing technology, cybersecurity, engineering, startups, or interesting project ideas.
+
+
+## 🚀 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,nodejs,express,react,mysql,git,github,linux,vscode,arduino" />
+</p>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+
+
+## 🚀 Featured Projects
+
+- 🌧 RainRegain — Rooftop Rainwater Harvesting Platform
+- ⛰ FISSURE — Self-Healing Landslide Prediction System
+- 🛡 SovaScan AI — AI-Powered Security Scanner
