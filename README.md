@@ -1,4 +1,4 @@
-# Hi, I'm Veer Dubey 👋
+# Hi, I'm Veer Vishal Dubey 👋
 
 🎓 2nd Year Computer Science Engineering student @ **BMS College of Engineering, Bengaluru**
 
