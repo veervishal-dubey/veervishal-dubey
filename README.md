@@ -1,6 +1,6 @@
 # Hi, I'm Veer Vishal Dubey 👋
 
-🎓 2nd Year Computer Science Engineering student @ **BMS College of Engineering, Bengaluru**
+🎓 3rd Year Computer Science Engineering student @ **BMS College of Engineering, Bengaluru**
 
 I'm passionate about building systems that solve practical problems, especially the ones I encounter myself. Whether it's developing secure software, designing IoT solutions, or automating repetitive workflows, I enjoy understanding how things work beneath the surface and finding ways to make them more efficient, reliable, and secure.
 
